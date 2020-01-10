@@ -386,7 +386,7 @@ the top, in the drop down menu select the `.all` index pattern.
 To select fields to show for messages, look on left hand side fore the
 `Available Fields` label. Below this are fields that can be selected and
 shown in the middle of the screen. Find the `hostname` field below the
-`Available Fields` and click `add`. Notice now, in the message pain, each
+`Available Fields` and click `add`. Notice now, in the message pane, each
 message's hostname is displayed. More fields may be added.
 
 To create a query for logs, the `Add a filter +` link right below the search
